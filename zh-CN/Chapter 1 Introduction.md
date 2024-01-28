@@ -222,3 +222,4 @@
 [^24]: Torralba, A., Freeman, W., & Isola, P. (forthcoming). Computer vision: A deep learning approach. MIT Press.
 [^25]: Hamilton, W. L. (2020). Graph representation learning. Synthesis Lectures on Artifical Intelligence and Machine Learning, 14(3), 1–159.
 [^26]: Sutton, R. S., & Barto, A. G. (2018). Reinforcement Learning: An introduction, 2nd Edition. MIT Press.
+
